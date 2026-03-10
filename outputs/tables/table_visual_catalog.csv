@@ -1,0 +1,35 @@
+visual_id,visual_type,file_name,primary_dimension,orthogonality_note
+map_01,map,map_01_rail_hsr_timeslices.png,transport chronology,Temporal network expansion baseline
+map_02,map,map_02_development_zones.png,policy geography,Zone placement independent of growth outcomes
+map_03,map,map_03_population_growth.png,demographic change,Population dynamics spatial pattern
+map_04,map,map_04_economic_growth_proxy.png,economic change,Activity shift pattern using GDP proxy
+map_05,map,map_05_population_econ_colocation.png,co-location regime,Joint pop-econ divergence classes
+map_06,map,map_06_zone_connectivity_overlay.png,policy-transport interaction,Overlay of two structural drivers
+map_07,map,map_07_typology_prefecture.png,trajectory synthesis,Integrated final typology
+map_08,map,map_08_hsr_station_gain.png,station-based connectivity gain,Point-access expansion outcome
+map_09,map,map_09_population_level_2020.png,demographic stock,Population stock (level) vs growth map
+map_10,map,map_10_rail_density_2020.png,rail infrastructure intensity,Area-normalized rail presence
+map_11,map,map_11_hsr_density_2020.png,HSR infrastructure intensity,Area-normalized HSR presence
+map_12,map,map_12_dist_to_station_2020.png,general accessibility,Distance-based accessibility for all rail
+map_13,map,map_13_dist_to_hsr_station_2020.png,HSR accessibility,HSR-specific accessibility gradient
+map_14,map,map_14_active_zones_2020.png,policy stock,Active-zone stock independent of transport
+map_15,map,map_15_connectivity_gain.png,connectivity composite,Combined rail/HSR/station accessibility change
+map_16,map,map_16_full_infrastructure_buildout.png,full infrastructure stack,"Integrated overlay of roads, rail/HSR, stations, airports, ports/logistics hubs, and policy zones"
+map_17,map,map_17_synergy_hotspots.png,integrated hotspot intensity,Composite growth-connectivity-policy synergy surface
+fig_08,figure,fig_08_concentration_trends.png,national concentration trend,Macro concentration dynamics
+fig_09,figure,fig_09_boxplots_by_typology.png,within-type distributions,Distributional heterogeneity by type
+fig_10,figure,fig_10_corridor_population_growth.png,corridor-pop relation,Distance-band demographic response
+fig_11,figure,fig_11_corridor_econ_growth.png,corridor-econ relation,Distance-band economic response
+fig_12,figure,fig_12_scatter_pop_vs_econ_growth.png,growth coupling,Joint demographic-economic gradient
+fig_13,figure,fig_13_scatter_connectivity_vs_pop_growth.png,connectivity-demography,Connectivity link to pop growth
+fig_14,figure,fig_14_scatter_zone_vs_econ_growth.png,policy-economy,Zone intensity relation to econ growth
+fig_15,figure,fig_15_typology_counts.png,class composition,Typology size structure
+fig_16,figure,fig_16_typology_metric_heatmap.png,multimetric typology profile,Metric contrasts by type
+fig_17,figure,fig_17_province_growth_ranking.png,province ranking,Cross-province relative performance
+fig_18,figure,fig_18_station_accessibility_trend.png,access trend,Temporal accessibility shift
+fig_19,figure,fig_19_network_length_trend.png,network stock trend,Aggregate infrastructure growth
+fig_20,figure,fig_20_zone_activation_trend.png,zone trend,Temporal policy-zone intensity trend
+fig_21,figure,fig_21_lorenz_population_distribution.png,distribution inequality,Concentration shape comparison
+fig_22,figure,fig_22_hsr_station_gain_vs_econ_growth.png,HSR gain-economy relation,Station expansion linkage
+fig_23,figure,fig_23_hsr_threshold_sensitivity.png,threshold robustness,Near-far growth contrast stability under alternative proximity cutoffs
+fig_24,figure,fig_24_driver_coefficients_bootstrap.png,model-based evidence,Adjusted coefficient uncertainty for major transport-policy-growth drivers

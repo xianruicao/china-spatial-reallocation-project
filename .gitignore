@@ -1,0 +1,18 @@
+# Large/raw inputs (not suitable for GitHub push)
+data/raw/
+
+# Local/editor artifacts
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+
+# LaTeX build byproducts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.toc

@@ -1,0 +1,11 @@
+check_name,value,threshold,status,notes
+panel_duplicate_pref_year,0,0,PASS,Must be 1 row per prefecture-year
+panel_pref_count,344,344,PASS,Coverage of analysis frame
+panel_year_count,5,5,PASS,Expected time slices present
+missing_rate_pop_total,0,0.05,PASS,Population missingness should be low
+missing_rate_gdp_value,0,0.05,PASS,GDP missingness expected minimal for mainland frame
+missing_rate_pref_gdp_value,0,0.05,PASS,Derived economic proxy coverage
+negative_rail_values,0,0,PASS,Rail length cannot be negative
+negative_hsr_values,0,0,PASS,HSR length cannot be negative
+hsr_presence_rate_2020,0.7587209302325582,0.05,PASS,Share of prefectures with non-zero HSR length in 2020
+missing_rate_dist_hsr_2020,0,0.15,PASS,HSR accessibility coverage at end year

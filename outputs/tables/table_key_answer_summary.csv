@@ -1,0 +1,12 @@
+finding,estimate,ci_low,ci_high,p_value,interpretation
+"Population concentration change (HHI, %)",11.844330215317878,NA,NA,NA,Positive implies stronger spatial concentration
+"Economic concentration change (HHI, %)",0.7280518318995233,NA,NA,NA,Small change implies broad dispersion in proxy economic activity
+"HSR-near minus HSR-far population growth gap (pp/year, near<=10km vs far>50km)",0.018744298665135384,-0.4266231696268515,0.47840716634478103,0.921,Bootstrap CI + permutation p-value quantify uncertainty of the corridor gradient
+"HSR-near minus HSR-far economic growth gap (pp/year, near<=10km vs far>50km)",0.761921511451229,0.30163272495457805,1.2629173846526998,0.01125,Bootstrap CI + permutation p-value quantify uncertainty of the corridor gradient
+Driver model coef: HSR km change (z) -> population growth (%/year),0.2971181536607429,0.1156234864489494,0.4579886468877792,1.4860917488108275e-4,"Province-FE model with baseline controls; coefficient interpreted as association, not causality"
+Driver model coef: HSR km change (z) -> economic growth (%/year),0.11016007742026834,-0.009847816713741419,0.24058527256274706,0.06116975903065856,"Adjusted model with baseline controls + provincial GDP growth control; coefficient interpreted as association, not causality"
+Share: Mixed Transitional Pattern (%),58.72093023255814,NA,NA,NA,"Large share indicates heterogeneous, non-single-regime transformation"
+Share: Rail-Led Corridor Urbanization (%),6.686046511627907,NA,NA,NA,Captures corridor-led trajectory prevalence
+Share: Zone-Rail Synergy Growth Pole (%),2.3255813953488373,NA,NA,NA,Captures strongest co-location regime prevalence
+Minimum typology stability vs baseline (share identical),0.8488372093023255,NA,NA,NA,Higher values indicate specification-robust typology assignments
+Minimum ARI vs baseline (robustness variants),0.6134852096982821,NA,NA,NA,Higher ARI indicates robust clustering of prefecture trajectories

@@ -1,0 +1,3 @@
+outcome,near_cutoff_km,far_cutoff_rule,estimate,ci_low,ci_high,p_perm,n_hi,n_lo
+Population growth gap (pp/year),10,>50 km,0.018744298665135384,-0.4266231696268515,0.47840716634478103,0.921,38,132
+Economic growth gap (pp/year),10,>50 km,0.761921511451229,0.30163272495457805,1.2629173846526998,0.01125,38,132

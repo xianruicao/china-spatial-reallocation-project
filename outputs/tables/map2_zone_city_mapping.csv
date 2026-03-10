@@ -1,0 +1,127 @@
+zone_id,zone_name,zone_type,city,province,establishment_year
+ZONE_00001,大连经济技术开发区,ETDZ,Dalian,Liaoning,1984
+ZONE_00002,苏州高新技术产业开发区,HIDZ,Suzhou,Jiangsu,NA
+ZONE_00003,Yangpu Economic Development Zone,Development Zone,Hainan,Hainan,1992
+ZONE_00004,Guangzhou Development Zone Hospital,Development Zone,Guangzhou,Guangdong,NA
+ZONE_00005,Lantian Economic Development Zone,Development Zone,Zhangzhou,Fujian,NA
+ZONE_00006,九江经济技术开发区,ETDZ,Jiujiang,Jiangxi,NA
+ZONE_00007,武汉阳逻经济开发区,Development Zone,Wuhan,Hubei,NA
+ZONE_00008,Qipanshan International Scenery and Tourism Development Zone,Development Zone,Shenyang,Liaoning,NA
+ZONE_00009,Atour Hotel (Chengdu Chengdu Hi-Tech Industrial Development Zone),Development Zone,Chengdu,Sichuan,NA
+ZONE_00010,Country Garden Phoenix Hotel(High Tech Development Zone store),HIDZ,Jingmen,Hubei,NA
+ZONE_00011,Holiday Inn Express Xi'an High-Tech Zone,HIDZ,Xi'an,Shaanxi,NA
+ZONE_00012,Holiday Inn Express Jinan High-Tech Zone,HIDZ,Jinan,Shandong,NA
+ZONE_00013,Hampton by Hilton Hefei Economic Development Zone,Development Zone,Hefei,Anhui,NA
+ZONE_00014,Vienna International Hotel (International Automobile City Development Zone Management Committee),Development Zone,Jiujiang,Jiangxi,NA
+ZONE_00015,Atour Hotel (Yangzhou Economic Development Zone),Development Zone,Yangzhou,Jiangsu,NA
+ZONE_00016,Atour Hotel (Liaocheng Development Zone),Development Zone,Liaocheng,Shandong,NA
+ZONE_00017,Man Xin Hotel (Beijing Yizhuang Economic Development Zone),Development Zone,Beijing,Beijing,NA
+ZONE_00018,临沂经济技术开发区,ETDZ,Linyi,Shandong,2003
+ZONE_00019,天津经济技术开发区,ETDZ,Tianjin,Tianjin,1984
+ZONE_00020,常州经济开发区,Development Zone,Changzhou,Jiangsu,NA
+ZONE_00021,Linyi National High-Tech Zone,HIDZ,Linyi,Shandong,1992
+ZONE_00022,临沂临港经济开发区,Development Zone,Linyi,Shandong,2010
+ZONE_00023,临沂综合保税区,FTZ/Bonded,Linyi,Shandong,2014
+ZONE_00024,高新区管委会,HIDZ,Suzhou,Jiangsu,NA
+ZONE_00025,High-Tech Zone Sports Center Gymnasium,HIDZ,Chengdu,Sichuan,NA
+ZONE_00026,综合保税区,FTZ/Bonded,Shenyang,Liaoning,NA
+ZONE_00027,Honghe Comprehensive Bonded Zone,FTZ/Bonded,Honghe Hani and Yi,Yunnan,NA
+ZONE_00028,Xiqing Economic and Technological Development Zone,ETDZ,Tianjin,Tianjin,NA
+ZONE_00029,上海漕河泾新兴技术开发区,Development Zone,Shanghai,Shanghai,NA
+ZONE_00030,天津经济技术开发区逸仙科学工业园,ETDZ,Tianjin,Tianjin,NA
+ZONE_00031,武清经济技术开发区,ETDZ,Tianjin,Tianjin,NA
+ZONE_00032,宁河区贸易开发区,Development Zone,Tianjin,Tianjin,NA
+ZONE_00033,宁河区经济开发区,Development Zone,Tianjin,Tianjin,NA
+ZONE_00034,天津未来科技城滨海高新区片区,HIDZ,Tianjin,Tianjin,NA
+ZONE_00035,天津子牙经济技术开发区,ETDZ,Tianjin,Tianjin,NA
+ZONE_00036,Shanghai Waigaoqiao Free Trade Zone,FTZ/Bonded,Shanghai,Shanghai,NA
+ZONE_00037,Jinqiao Economic and Technological Development Zone,ETDZ,Shanghai,Shanghai,NA
+ZONE_00038,辛集经济开发区,Development Zone,Shijiazhuang,Hebei,NA
+ZONE_00039,南堡经济开发区,Development Zone,Tangshan,Hebei,NA
+ZONE_00040,栖霞经济开发区,Development Zone,Nanjing,Jiangsu,NA
+ZONE_00041,雨花经济开发区,Development Zone,Nanjing,Jiangsu,NA
+ZONE_00042,Jiangning Development Zone,Development Zone,Nanjing,Jiangsu,NA
+ZONE_00043,江宁滨江开发区,Development Zone,Nanjing,Jiangsu,NA
+ZONE_00044,Tieling Economic Development Zone,Development Zone,Tieling,Liaoning,NA
+ZONE_00045,宜兴经济开发区,Development Zone,Wuxi,Jiangsu,NA
+ZONE_00046,Yuhua Economic Development Zone,Development Zone,Nanjing,Jiangsu,NA
+ZONE_00047,葫芦岛经济开发区,Development Zone,Huludao,Liaoning,NA
+ZONE_00048,Changchun Automobile Economic and Technological Development Zone,ETDZ,Changchun,Jilin,NA
+ZONE_00049,Longtan Economic Development Zone,Development Zone,Jilin,Jilin,NA
+ZONE_00050,四平经济开发区,Development Zone,Siping,Jilin,NA
+ZONE_00051,启东经济开发区,Development Zone,Shanghai,Shanghai,NA
+ZONE_00052,如皋市经济开发区,Development Zone,Nantong,Jiangsu,NA
+ZONE_00053,海州经济开发区,Development Zone,Lianyungang,Jiangsu,NA
+ZONE_00054,Fanjiatun Economic Development Zone,Development Zone,Siping,Jilin,NA
+ZONE_00055,Shuangliao Economic Development Zone,Development Zone,Siping,Jilin,NA
+ZONE_00056,赣榆海洋经济开发区,Development Zone,Lianyungang,Jiangsu,NA
+ZONE_00057,赣榆经济开发区,Development Zone,Lianyungang,Jiangsu,NA
+ZONE_00058,高新区街道,HIDZ,Lanzhou,Gansu,NA
+ZONE_00059,长岭经济开发区,Development Zone,Songyuan,Jilin,NA
+ZONE_00060,河北泊头经济开发区,Development Zone,Cangzhou,Hebei,NA
+ZONE_00061,黄骅经济技术开发区,ETDZ,Cangzhou,Hebei,NA
+ZONE_00062,河北永清经济开发区,Development Zone,Langfang,Hebei,NA
+ZONE_00063,Yanjiao National High-Tech Industrial Development Zone,HIDZ,Langfang,Hebei,NA
+ZONE_00064,经济开发区,Development Zone,Hengshui,Hebei,NA
+ZONE_00065,蔡甸经济开发区沌口街道,Development Zone,Wuhan,Hubei,NA
+ZONE_00066,蔡甸经济开发区常福街道,Development Zone,Wuhan,Hubei,NA
+ZONE_00067,蔡甸经济开发区文岭街道,Development Zone,Wuhan,Hubei,NA
+ZONE_00068,蔡甸经济开发区姚家山街道,Development Zone,Wuhan,Hubei,NA
+ZONE_00069,西城开发区,Development Zone,Shiyan,Hubei,NA
+ZONE_00070,开发区街道,Development Zone,Jincheng,Shanxi,NA
+ZONE_00071,山西转型综合改革示范区晋中开发区,Development Zone,Jinzhong,Shanxi,NA
+ZONE_00072,葛店开发区,Development Zone,Ezhou,Hubei,NA
+ZONE_00073,山西风陵渡经济开发区,Development Zone,Yuncheng,Shanxi,NA
+ZONE_00074,赤壁市经济开发区,Development Zone,Xianning,Hubei,NA
+ZONE_00075,Kunming High-tech Industrial Development Zone,HIDZ,Kunming,Yunnan,NA
+ZONE_00076,Kunming Economic and Technology Development Zone,Development Zone,Kunming,Yunnan,NA
+ZONE_00077,昆明倘甸产业园区轿子山旅游开发区,Development Zone,Kunming,Yunnan,NA
+ZONE_00078,Jungar Economic Development Zone,Development Zone,Ordos,Nei Mongol,NA
+ZONE_00079,Shanghaimiao Economic Development Zone,Development Zone,Ordos,Nei Mongol,NA
+ZONE_00080,苏里格经济开发区,Development Zone,Ordos,Nei Mongol,NA
+ZONE_00081,Bayantohai Economic Development Zone,Development Zone,Hulunbuir,Nei Mongol,NA
+ZONE_00082,Ulanhot Industrial and Economic Development Zone,Development Zone,Xing'an,Nei Mongol,NA
+ZONE_00083,Ulanhot Economic and Technological Development Zone,ETDZ,Xing'an,Nei Mongol,NA
+ZONE_00084,双凤开发区,Development Zone,Hefei,Anhui,NA
+ZONE_00085,安徽肥西经济开发区,Development Zone,Hefei,Anhui,NA
+ZONE_00086,紫蓬山旅游开发区,Development Zone,Hefei,Anhui,NA
+ZONE_00087,安徽庐江经济开发区,Development Zone,Hefei,Anhui,NA
+ZONE_00088,雨山经济开发区,Development Zone,Ma'anshan,Anhui,NA
+ZONE_00089,福田保税区,FTZ/Bonded,Shenzhen,Guangdong,NA
+ZONE_00090,濉溪县经济开发区,Development Zone,Huaibei,Anhui,NA
+ZONE_00091,郊区经济开发区,Development Zone,Tongling,Anhui,NA
+ZONE_00092,Zongyang Economic Development Zone,Development Zone,Anqing,Anhui,NA
+ZONE_00093,灵璧县经济开发区,Development Zone,Suzhou,Anhui,NA
+ZONE_00094,泗县经济开发区,Development Zone,Suzhou,Anhui,NA
+ZONE_00095,舒城县经济开发区,Development Zone,Lu'an,Anhui,NA
+ZONE_00096,池州经济技术开发区,ETDZ,Chizhou,Anhui,NA
+ZONE_00097,大渡口经济开发区,Development Zone,Chizhou,Anhui,NA
+ZONE_00098,Qingmeng Economic Development Zone.,Development Zone,Zhanjiang,Guangdong,NA
+ZONE_00099,安平开发区,Development Zone,Quanzhou,Fujian,NA
+ZONE_00100,角美工业开发区,Development Zone,Zhangzhou,Fujian,NA
+ZONE_00101,东园开发区,Development Zone,Zhangzhou,Fujian,NA
+ZONE_00102,良庆经济开发区管委会,Development Zone,Nanning,Guangxi,NA
+ZONE_00103,Fu'an Economic Development Zone,Development Zone,Ningde,Fujian,NA
+ZONE_00104,沙河经济技术开发区,ETDZ,Jiujiang,Jiangxi,NA
+ZONE_00105,太泊湖农业综合开发区,Development Zone,Jiujiang,Jiangxi,NA
+ZONE_00106,赣州经济技术开发区,ETDZ,Ganzhou,Jiangxi,NA
+ZONE_00107,江西赣县经济开发区,Development Zone,Ganzhou,Jiangxi,NA
+ZONE_00108,利津县经济开发区,Development Zone,Dongying,Shandong,NA
+ZONE_00109,Shuyang Economic and Technological Development Zone,ETDZ,Suqian,Jiangsu,NA
+ZONE_00110,天津开发区导轨电车1号线,Development Zone,Tianjin,Tianjin,2007
+ZONE_00111,天津经济技术开发区国际学校,ETDZ,Tianjin,Tianjin,1994
+ZONE_00112,Changsha High-Tech Industrial Development Zone,HIDZ,Changsha,Hunan,NA
+ZONE_00113,北京雁栖经济开发区,Development Zone,Beijing,Beijing,NA
+ZONE_00114,Yiyang High-Tech Industrial Development Zone,HIDZ,Yiyang,Hunan,NA
+ZONE_00115,Xiangtan High-Tech Industrial Development Zone,HIDZ,Xiangtan,Hunan,NA
+ZONE_00116,Zhuzhou High-Tech Industrial Development Zone,HIDZ,Zhuzhou,Hunan,NA
+ZONE_00117,上海紫竹高新技术产业开发区,HIDZ,Shanghai,Shanghai,2002
+ZONE_00118,句容经济开发区,Development Zone,Zhenjiang,Jiangsu,NA
+ZONE_00119,合肥经济技术开发区,ETDZ,Hefei,Anhui,NA
+ZONE_00120,合肥经济技术开发区,ETDZ,Hefei,Anhui,NA
+ZONE_00121,Hefei Xinzhan Hi-tech Industry Development Zone,Development Zone,Chuzhou,Anhui,NA
+ZONE_00122,北京经济技术开发区,ETDZ,Beijing,Beijing,NA
+ZONE_00123,Minhang Economic and Technological Development Zone,ETDZ,Shanghai,Shanghai,NA
+ZONE_00125,Shenzhen Special Economic Zone,SEZ,Shenzhen,Guangdong,1980
+ZONE_00126,中国（上海）自由贸易试验区,Development Zone,Shanghai,Shanghai,NA
+ZONE_00127,Yantai Economic and Technological Development Zone,ETDZ,Yantai,Shandong,1984

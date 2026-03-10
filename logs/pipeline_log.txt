@@ -1,0 +1,29 @@
+[2026-03-01 15:31:54] Step 1: Downloading and preparing administrative boundaries (GADM via geodata) 
+[2026-03-01 15:31:55] Boundaries prepared (mainland frame): 31 provinces, 344 prefecture-level units (GADM level 2). 
+[2026-03-01 15:31:55] Step 2: Loading annual rail network layers from NBER China Surface Transport Database 
+[2026-03-01 15:33:16] Rail snapshots loaded from NBER for years 2000, 2005, 2008, 2010, 2012, 2015, 2018, 2020 | segments by type/year: 2000-rail:103808; 2005-hsr:309; 2005-rail:108407; 2008-hsr:1280; 2008-rail:111243; 2010-hsr:6397; 2010-rail:117146; 2012-hsr:11766; 2012-rail:122946; 2015-hsr:26460; 2015-rail:132094; 2018-hsr:32833; 2018-rail:134292; 2020-hsr:36368; 2020-rail:136583 
+[2026-03-01 15:33:24] Step 3: Building station snapshots from annual NBER station layers 
+[2026-03-01 15:33:25] Station snapshots loaded from NBER for years 2000, 2005, 2010, 2015, 2020 | stations by type/year: 2000-hsr:441; 2000-rail:6378; 2005-hsr:469; 2005-rail:6520; 2010-hsr:589; 2010-rail:6833; 2015-hsr:919; 2015-rail:7313; 2020-hsr:1205; 2020-rail:7589 
+[2026-03-01 15:33:25] Step 4: Time-sliced rail and station layers ready (NBER annual snapshots) 
+[2026-03-01 15:33:25] Step 5: Querying development-zone points from Wikidata 
+[2026-03-01 15:34:22] Development zones prepared: 126 points. 
+[2026-03-01 15:34:22] Step 5b: Building multimodal infrastructure layers (expressways/national roads, airports, ports/logistics hubs) from Geofabrik OSM 
+[2026-03-01 15:34:22] Geofabrik regional archives available: 31/31 
+[2026-03-01 15:35:37] Multimodal layers ready | roads: 963538, airports: 771, ports/logistics hubs: 3363 
+[2026-03-01 15:35:37] Step 6: Downloading and processing population rasters (GPW via geodata::population) 
+[2026-03-01 15:35:38] Population rasters ready for 5 snapshot years. 
+[2026-03-01 15:35:38] Step 7: Scraping provincial GDP snapshots (2000, 2010, 2015, 2020) from Wikipedia 
+[2026-03-01 15:35:38] Unmatched GDP province names: China(mainland) 
+[2026-03-01 15:35:38] Provincial GDP panel written: 31 provinces x 5 years. 
+[2026-03-01 15:35:38] Step 8: Computing prefecture-level zone and rail connectivity metrics 
+[2026-03-01 15:35:52] Computing prefecture rail-length intersections for year 2000 
+[2026-03-01 15:36:05] Computing prefecture rail-length intersections for year 2005 
+[2026-03-01 15:36:20] Computing prefecture rail-length intersections for year 2010 
+[2026-03-01 15:36:36] Computing prefecture rail-length intersections for year 2015 
+[2026-03-01 15:36:57] Computing prefecture rail-length intersections for year 2020 
+[2026-03-01 15:37:20] Step 9: Aggregating population to prefecture-year 
+[2026-03-01 15:37:25] Step 10: Building analysis panel and derived growth metrics 
+[2026-03-01 15:37:25] Package 'arrow' not installed; parquet export skipped. 
+[2026-03-01 15:37:29] Step 11: Generating maps and figures 
+[2026-03-01 15:40:01] Step 12: Writing metadata inventory, variable dictionary, and session info 
+[2026-03-01 15:40:01] Pipeline completed successfully. 

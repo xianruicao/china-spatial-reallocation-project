@@ -1,0 +1,19 @@
+model = "gpt-5.3-codex"
+model_reasoning_effort = "xhigh"
+personality = "pragmatic"
+
+# Project default: avoid routine prompts, but stay sandboxed.
+ask_for_approval = "never"
+sandbox = "workspace-write"
+
+[profiles.safe]
+ask_for_approval = "on-request"
+sandbox = "workspace-write"
+
+[profiles.balanced]
+ask_for_approval = "never"
+sandbox = "workspace-write"
+
+[profiles.unrestricted]
+ask_for_approval = "never"
+sandbox = "danger-full-access"

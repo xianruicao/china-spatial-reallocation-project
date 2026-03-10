@@ -1,0 +1,14 @@
+variable,description,type,source
+pref_id,Stable GADM level-2 unit identifier,character,GADM
+prov_id,Stable GADM level-1 unit identifier,character,GADM
+year,Snapshot year,integer,Project parameter
+pop_total,Estimated total population from GPW density x cell area,numeric,GPW via geodata
+gdp_value,Provincial GDP nominal value (CNY million),numeric,Wikipedia table
+pref_gdp_value,Population-allocated prefecture GDP proxy,numeric,Derived
+n_zones,Count of development-zone points in unit,integer,Wikidata-derived
+active_zones,Cumulative active zones by year using establishment year when available,integer,Derived
+rail,Regular rail km inside prefecture-year from annual NBER network overlays,numeric,NBER CSTD + derived intersections
+hsr,HSR km inside prefecture-year from annual NBER high-speed network overlays,numeric,NBER CSTD + derived intersections
+dist_station_km,Distance from prefecture centroid to nearest rail station,numeric,Derived
+dist_hsr_station_km,Distance from prefecture centroid to nearest HSR station,numeric,Derived
+trajectory_type,Rule-based spatial transformation typology,character,Derived
